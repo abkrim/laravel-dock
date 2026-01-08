@@ -22,6 +22,7 @@ RUN apk add --no-cache \
     zip \
     unzip \
     mysql-client \
+    postgresql-dev \
     postgresql-client \
     oniguruma-dev \
     libxml2-dev \
