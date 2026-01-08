@@ -40,6 +40,7 @@ RUN docker-php-ext-configure gd --with-freetype --with-jpeg \
         gd \
         zip \
         intl \
+        soap \
         opcache
 
 # Install Redis extension
